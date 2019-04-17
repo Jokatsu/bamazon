@@ -2,4 +2,4 @@
 
 Bamazon Shopping from the customer's point of view
 
-Demo:
+Demo:https://github.com/Jokatsu/bamazon/blob/master/bamazon.gif
